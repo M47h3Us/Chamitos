@@ -84,7 +84,7 @@ entrada.place(x = 15, y = 345 )
 #=======================================================================================
 #IMAGEM DO QUADRADO DE CIMA...WARIO CAGADO KKKKKKKKKKKKKKKKKKKKKK
 
-imagem = ImageTk.PhotoImage(Image.open("images/wariocadago.png"))
+imagem = ImageTk.PhotoImage(Image.open("../../Desktop/Reposotorios GitHub/Chamitos/images/wariocadago.png"))
 
 #=======================================================================================
 #QUADRADO DE CIMA
